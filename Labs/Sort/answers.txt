@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: This recorded the least running time compared to selection sort when sorting a the sorted array i.e in a best case scenario it was faster (omega of n) than selection sort
+
+sort2 uses: Merge sort
+
+How do you know?: This recorded the least running time when sorting the reversed array file.
+
+sort3 uses: Selection sort
+
+How do you know?: This recorded the highest running time when sorting both a random and sorted file. i.e O(n2) for both best case and worst case scenario
